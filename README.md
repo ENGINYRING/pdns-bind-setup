@@ -1,5 +1,8 @@
 [![ENGINYRING](https://cdn.enginyring.com/img/logo_dark.png)](https://www.enginyring.com)
 
+# WORK IN PROGRESS! DO NOT USE IN PRODUCTION
+
+
 # PowerDNS Master / BIND Slave Setup Script v1.2.1
 A robust, production-grade Bash script for configuring PowerDNS master servers and BIND slave servers with automatic zone synchronization. This script implements a comprehensive DNS infrastructure with secure zone transfers, monitoring, and backup capabilities.
 
